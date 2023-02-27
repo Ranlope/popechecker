@@ -1,0 +1,29 @@
+body {
+  background-image: url('./papaj.jpg');
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+}
+
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 2em;
+    color: #333;
+    margin-top: 0;
+  }
+  
